@@ -1,1 +1,2 @@
-# PHP_form
+# PHP
+copy this files to xammp folder
